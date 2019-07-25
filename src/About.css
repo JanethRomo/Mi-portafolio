@@ -1,0 +1,26 @@
+.mt-3 {
+    border: 1px solid #dbdbdb;
+    box-shadow: 3px 0px 51px -5px rgba(0,0,0,0.36);
+    margin: 1rem;
+    max-width: 100%;
+    text-align: center;
+    width: 540px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.aboutme{
+    box-shadow: 0 3px 3px 0 rgb(0,0,0, .1);
+    font-weight: 700;
+    background-color: whitesmoke;
+    border-color: white;
+    color:black;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;
+    border-radius: 2.5rem;
+    margin-left: 45%;
+    margin-top: 30px;
+    
+   
+   
+}
