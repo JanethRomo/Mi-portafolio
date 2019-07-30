@@ -15,7 +15,7 @@ return(
     });
         return(
             <nav>
-                */<h2 className="Logo">{this.props.LogoTitle}</h2>
+                <h2 className="Logo">{this.props.LogoTitle}</h2>
                 <ul>
                 {navLinks}
                 

@@ -7,6 +7,7 @@ import Header from './Header';
 import './Header.css';
 import About from './About.js';
 import './About';
+import Cv from './cv';
 import Projects from './Projects.js';
 import './Projects.css';
 import Contact from './Contact';
@@ -22,6 +23,7 @@ class App extends Component{
                 <Navigation LogoTitle="Portafolio" />
                 <Header title="Janeth Romo" />
                 <About/>
+                <Cv/>
                 <Projects/>
                 <Contact/>
             </div>
